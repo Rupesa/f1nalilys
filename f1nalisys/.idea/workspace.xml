@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1dc54be4-44e5-4894-8c7e-60fab9fca563" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JupyterTrust" id="df4d7f69-aecf-4003-a272-c56bbc26a8f8" />
+  <component name="ProjectId" id="1kHUqTLPQ6RElZxPYNofmgOPvn2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/webapp" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="f1nalisys" type="Python.DjangoServer" factoryName="Django server">
+      <module name="f1nalisys" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="f1nalisys.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1dc54be4-44e5-4894-8c7e-60fab9fca563" name="Default Changelist" comment="" />
+      <created>1605357200418</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605357200418</updated>
+      <workItem from="1605357201509" duration="1090000" />
+      <workItem from="1605397602432" duration="28950000" />
+      <workItem from="1605496710210" duration="11247000" />
+      <workItem from="1605573092732" duration="11508000" />
+      <workItem from="1605723346248" duration="81000" />
+      <workItem from="1605723429254" duration="6440000" />
+      <workItem from="1605795357704" duration="45000" />
+      <workItem from="1605795409555" duration="885000" />
+      <workItem from="1605833136783" duration="98000" />
+      <workItem from="1607599201285" duration="278000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="168" key="GridCell.Tab.0.bottom" timestamp="1607612488948">
+      <screen x="0" y="0" width="1440" height="896" />
+    </state>
+    <state width="1398" height="168" key="GridCell.Tab.0.bottom/0.0.1440.896/-2304.-343.2304.1296@0.0.1440.896" timestamp="1605833234132" />
+    <state width="1398" height="168" key="GridCell.Tab.0.bottom/0.0.1440.896/-2304.-396.2304.1296@0.0.1440.896" timestamp="1607599262679" />
+    <state width="1398" height="168" key="GridCell.Tab.0.bottom/0.0.1440.896@0.0.1440.896" timestamp="1607612488948" />
+    <state width="1110" height="251" key="GridCell.Tab.0.bottom/0.22.1440.874/-2304.-321.2304.1274@-2304.-321.2304.1274" timestamp="1605746708769" />
+    <state width="1110" height="251" key="GridCell.Tab.0.bottom/0.22.1440.878/-2304.-321.2304.1270@-2304.-321.2304.1270" timestamp="1605783306796" />
+    <state width="1398" height="168" key="GridCell.Tab.0.center" timestamp="1607612488947">
+      <screen x="0" y="0" width="1440" height="896" />
+    </state>
+    <state width="1398" height="168" key="GridCell.Tab.0.center/0.0.1440.896/-2304.-343.2304.1296@0.0.1440.896" timestamp="1605833234131" />
+    <state width="1398" height="168" key="GridCell.Tab.0.center/0.0.1440.896/-2304.-396.2304.1296@0.0.1440.896" timestamp="1607599262677" />
+    <state width="1398" height="168" key="GridCell.Tab.0.center/0.0.1440.896@0.0.1440.896" timestamp="1607612488947" />
+    <state width="1110" height="251" key="GridCell.Tab.0.center/0.22.1440.874/-2304.-321.2304.1274@-2304.-321.2304.1274" timestamp="1605746708768" />
+    <state width="1110" height="251" key="GridCell.Tab.0.center/0.22.1440.878/-2304.-321.2304.1270@-2304.-321.2304.1270" timestamp="1605783306795" />
+    <state width="1398" height="168" key="GridCell.Tab.0.left" timestamp="1607612488946">
+      <screen x="0" y="0" width="1440" height="896" />
+    </state>
+    <state width="1398" height="168" key="GridCell.Tab.0.left/0.0.1440.896/-2304.-343.2304.1296@0.0.1440.896" timestamp="1605833234130" />
+    <state width="1398" height="168" key="GridCell.Tab.0.left/0.0.1440.896/-2304.-396.2304.1296@0.0.1440.896" timestamp="1607599262668" />
+    <state width="1398" height="168" key="GridCell.Tab.0.left/0.0.1440.896@0.0.1440.896" timestamp="1607612488946" />
+    <state width="1110" height="251" key="GridCell.Tab.0.left/0.22.1440.874/-2304.-321.2304.1274@-2304.-321.2304.1274" timestamp="1605746708768" />
+    <state width="1110" height="251" key="GridCell.Tab.0.left/0.22.1440.878/-2304.-321.2304.1270@-2304.-321.2304.1270" timestamp="1605783306795" />
+    <state width="1398" height="168" key="GridCell.Tab.0.right" timestamp="1607612488948">
+      <screen x="0" y="0" width="1440" height="896" />
+    </state>
+    <state width="1398" height="168" key="GridCell.Tab.0.right/0.0.1440.896/-2304.-343.2304.1296@0.0.1440.896" timestamp="1605833234131" />
+    <state width="1398" height="168" key="GridCell.Tab.0.right/0.0.1440.896/-2304.-396.2304.1296@0.0.1440.896" timestamp="1607599262678" />
+    <state width="1398" height="168" key="GridCell.Tab.0.right/0.0.1440.896@0.0.1440.896" timestamp="1607612488948" />
+    <state width="1110" height="251" key="GridCell.Tab.0.right/0.22.1440.874/-2304.-321.2304.1274@-2304.-321.2304.1274" timestamp="1605746708769" />
+    <state width="1110" height="251" key="GridCell.Tab.0.right/0.22.1440.878/-2304.-321.2304.1270@-2304.-321.2304.1270" timestamp="1605783306795" />
+  </component>
+</project>

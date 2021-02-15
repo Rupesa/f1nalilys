@@ -1,0 +1,1 @@
+Para correr o projeto é necessário criar uma base de dados BaseX “f1” e adicionar os ficheiros 2020_0.xml (f1nalisys/webapp/Corridas/2020) e comments_groups.xml (f1nalisys/webapp/Corridas) e abrir a pasta f1nalisys no PyCharm e correr. Se houver algum problema ou dificuldade por favor comunique-nos.

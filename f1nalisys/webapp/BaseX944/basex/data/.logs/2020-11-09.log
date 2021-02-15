@@ -1,0 +1,31 @@
+19:33:26.410	SERVER	admin	OK	Server was started (port: 1984).
+19:34:30.308	127.0.0.1:60516	admin	REQUEST	OPEN for1	31.48 ms
+19:34:30.319	127.0.0.1:60516	admin	ERROR	Database 'for1' was not found.	11.07 ms
+19:34:30.326	127.0.0.1:60516	admin	REQUEST	CREATE DB for1	5.75 ms
+19:34:30.473	127.0.0.1:60516	admin	OK	Database 'for1' created in 143.82 ms.	147.17 ms
+19:34:30.474	127.0.0.1:60516	admin	REQUEST	OPEN for1	0.41 ms
+19:34:30.474	127.0.0.1:60516	admin	OK	Database 'for1' was opened in 0.04 ms.	0.44 ms
+19:34:30.477	127.0.0.1:60516	admin	REQUEST	ADD TO Cons2018 [...]	0.92 ms
+19:34:30.588	127.0.0.1:60516	admin	OK	Resource(s) added in 107.65 ms.	110.89 ms
+19:34:30.589	127.0.0.1:60516	admin	REQUEST	EXIT	0.36 ms
+19:34:30.590	127.0.0.1:60516	admin	OK		1.25 ms
+19:35:57.639	127.0.0.1:60549	admin	REQUEST	OPEN for2	0.93 ms
+19:35:57.640	127.0.0.1:60549	admin	ERROR	Database 'for2' was not found.	0.45 ms
+19:35:57.640	127.0.0.1:60549	admin	REQUEST	CREATE DB for2	0.24 ms
+19:35:57.653	127.0.0.1:60549	admin	OK	Database 'for2' created in 10.98 ms.	12.44 ms
+19:35:57.653	127.0.0.1:60549	admin	REQUEST	OPEN for2	0.3 ms
+19:35:57.654	127.0.0.1:60549	admin	OK	Database 'for2' was opened in 0.02 ms.	0.26 ms
+19:35:57.655	127.0.0.1:60549	admin	REQUEST	ADD TO Cons2018 [...]	0.12 ms
+19:35:57.665	127.0.0.1:60549	admin	OK	Resource(s) added in 7.33 ms.	9.49 ms
+19:35:57.665	127.0.0.1:60549	admin	REQUEST	EXIT	0.25 ms
+19:35:57.666	127.0.0.1:60549	admin	OK		0.67 ms
+19:37:15.149	127.0.0.1:60558	admin	REQUEST	OPEN for2	0.49 ms
+19:37:15.151	127.0.0.1:60558	admin	OK	Database 'for2' was opened in 1.89 ms.	2.22 ms
+19:37:15.153	127.0.0.1:60558	admin	REQUEST	XQUERY <root>{ for $a in collection('for2') return <elem> {$a} </elem>} </root>	1.54 ms
+19:37:15.527	127.0.0.1:60558	admin	OK	Query executed in 369.5 ms.	373.77 ms
+19:42:23.909	127.0.0.1:60592	admin	REQUEST	OPEN for2	0.46 ms
+19:42:23.911	127.0.0.1:60592	admin	OK	Database 'for2' was opened in 1.67 ms.	1.91 ms
+19:42:23.913	127.0.0.1:60592	admin	REQUEST	ADD TO Cons2018 [...]	0.17 ms
+19:42:23.931	127.0.0.1:60592	admin	OK	Resource(s) added in 15.04 ms.	18.01 ms
+19:42:23.932	127.0.0.1:60592	admin	REQUEST	XQUERY <root>{ for $a in collection('for2') return <elem> {$a} </elem>} </root>	0.31 ms
+19:42:23.947	127.0.0.1:60592	admin	OK	Query executed in 15.1 ms.	15.54 ms
